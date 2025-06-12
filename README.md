@@ -1,2 +1,2 @@
 # devops-first
-Learning Devops learning
+Learning Devops
